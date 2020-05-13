@@ -1,0 +1,5 @@
+import createTab from 'create-tab';
+createTab("tab-links-id", "tab-content-view-id");
+
+// Browser
+createTab("tab-links-id", "tab-content-view-id");
